@@ -8,17 +8,16 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible on our website, unless otherwise defined in this Privacy Policy.
 
 ### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users' names, email addresses, and phone numbers. The information that we request will be retained by us and used as described in this Privacy Policy.
-The app does use third-party services that may collect information used to identify you.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to names, email addresses, and phone numbers. This information will be retained by us and used as described in this Privacy Policy. The app uses third-party services that may collect information used to identify you.
 
 ### Features:
-* Send instructions to the tank via SMS: For controlling and managing the tank system if you dont need use sms you can use blutooth insted
+The app allows users to send instructions to the tank via SMS or Bluetooth for controlling and managing the tank system.
   
 ### Permissions Requested and Their Use
-Our app requests certain permissions to provide core functionalities, including but not limited to:
+The app requests certain permissions to provide core functionalities, including:
+- SMS Permissions (android.permission.SEND_SMS): This permission is required to send configuration messages to the tank device.
+- Bluetooth Permissions (android.permission.BLUETOOTH): This permission is required to send instructions to the tank via Bluetooth.
 
-* SMS Permissions
-SEND_SMS: This permission is required to send instructions to the tank
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
